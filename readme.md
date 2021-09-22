@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m [@andrewdef1](https://twitter.com/andrewdef1) 
 - 👀 I’m interested in Unknown place
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on IDK
 - 📫 How to reach me follow my socmed
 
