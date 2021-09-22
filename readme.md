@@ -25,5 +25,7 @@ You can click the Preview link to take a look at your changes.
 --->
 As Kobe Bean Bryant said:
 
-> Once you know what failure feels like, 
-> determination chases success.
+> If you're afraid to fail, 
+> then you're probably going to fail.
+
+>yeet
