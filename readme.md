@@ -28,4 +28,4 @@ As Kobe Bean Bryant said:
 > If you're afraid to fail, 
 > then you're probably going to fail.
 
->yeet
+> Despite fear, finish the job.
