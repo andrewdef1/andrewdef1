@@ -23,7 +23,7 @@
 andrewdef1/andrewdef1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-As Kanye West said:
+As Kobe Bean Bryant said:
 
-> We're living the future so
-> the present is our past.
+> Once you know what failure feels like, 
+> determination chases success.
