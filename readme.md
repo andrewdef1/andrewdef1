@@ -1,8 +1,6 @@
 
 # 🤞－ ｄｒｅｗ －🤞
 
-100% 𝓙𝓔𝓢𝓤𝓢.
-
 - 👋 Hi, I’m [@andrewdef1](https://twitter.com/andrewdef1) 
 - 👀 I’m interested in Unknown place
 - 🌱 I’m currently learning React.js
@@ -10,7 +8,7 @@
 - 📫 How to reach me follow my socmed
 
 
-## - 🆂🅾🅲🅸🅰🅻🆂 -
+## - SOCIALS -
 - [ʏᴏᴜᴛᴜʙᴇ](https://s.id/drewYoutube)
 - [ᴛᴡɪᴛᴄʜ](https://s.id/drewTwitch)
 - [ᴛᴡɪᴛᴛᴇʀ](https://s.id/drewTwitter)
