@@ -21,7 +21,7 @@
 andrewdef1/andrewdef1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-As Kobe Bean Bryant said:
+As __*Kobe Bean Bryant*__ said:
 
 > If you're afraid to fail, 
 > then you're probably going to fail.
